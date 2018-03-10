@@ -1,0 +1,8 @@
+{
+  "name": "mdb-react-demo",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/spencer-brown/mdb-react-demo",
+  "author": "Spencer Brown <me@spencer.sx>",
+  "license": "MIT"
+}
